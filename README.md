@@ -1,0 +1,1 @@
+# blueprint-hello-osgi
